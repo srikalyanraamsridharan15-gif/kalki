@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Analytics Practice site</title> -->
+<!--GOOGLE TAG
+</head>
+<body>
+
+  <h2> Welcome to analytics Practice site</h2>
+  <p> This site is used for Google Analytics Practice.<p>
+
+  <button id="buyBtn">PRESS</button>
+
+</body>
+</html>
